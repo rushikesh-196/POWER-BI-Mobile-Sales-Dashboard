@@ -111,7 +111,7 @@ This dashboard can help business users:
 
 ## 👤 Author
 
-**Rushikesh Barate**
+**Rushikesh Barhate**
 
 - GitHub: [@rushikesh-196](https://github.com/rushikesh-196)
 - Project Repository: [POWER-BI-Mobile-Sales-Dashboard](https://github.com/rushikesh-196/POWER-BI-Mobile-Sales-Dashboard)
